@@ -1,6 +1,6 @@
 Cribbage2
 Erica Chesley
-Winter/Spring 2020
+https://github.com/ericachesley/cribbage2
 
 OVERVIEW
 Object-oriented, text-based Cribbage game program written for Hackbright Academy Phenomenal Women Scholarship application.

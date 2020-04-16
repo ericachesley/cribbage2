@@ -1,7 +1,7 @@
 """
 Cribbage2
 Erica Chesley
-Winter/Spring 2020
+https://github.com/ericachesley/cribbage2
 
 Cribbage game program written for Hackbright Academy Phenomenal Women Scholarship application.
 Run from main.py; see README.txt for more information.
