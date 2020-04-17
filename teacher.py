@@ -39,7 +39,7 @@ class Teacher:
 
     def play(self):
         time.sleep(PRINT_SPEED)
-        print ("\nEach round begins with the 'play' phase wherein players alternate playing a single card from their hands. As they play, they keep a running sun of the cards played thus far (with all face cards valued at 10 and Ace at 1). The sum may not go over 31.")
+        print ("\nEach round begins with the 'play' phase wherein players alternate playing a single card from their hands. As they play, they keep a running sum of the cards played thus far (with all face cards valued at 10 and Ace at 1). The sum may not go over 31.")
         time.sleep(PRINT_SPEED)
         print("\nIf a player cannot play without exceeding 31, that person says 'Go,' their opponent gets a point, and we move to the 'go' phase.")
         time.sleep(PRINT_SPEED)

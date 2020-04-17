@@ -117,7 +117,7 @@ class Round:
                 if self.gameOver:
                     return
             self.printScores()
-        if self.up.score < 31:
+        if self.count < 31:
             print("\n", self.up.name, "can't play.")
         self.turnSwitch()
         input("[Enter to proceed.] ")
